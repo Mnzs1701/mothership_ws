@@ -1,0 +1,19 @@
+(cl:defpackage multi_robot-msg
+  (:use )
+  (:export
+   "<GOTOACTION>"
+   "GOTOACTION"
+   "<GOTOACTIONFEEDBACK>"
+   "GOTOACTIONFEEDBACK"
+   "<GOTOACTIONGOAL>"
+   "GOTOACTIONGOAL"
+   "<GOTOACTIONRESULT>"
+   "GOTOACTIONRESULT"
+   "<GOTOFEEDBACK>"
+   "GOTOFEEDBACK"
+   "<GOTOGOAL>"
+   "GOTOGOAL"
+   "<GOTORESULT>"
+   "GOTORESULT"
+  ))
+

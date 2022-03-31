@@ -1,0 +1,12 @@
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./_setup_util.py
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./setup.zsh
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./local_setup.zsh
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./cmake.lock
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./setup.sh
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./local_setup.bash
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./setup.bash
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./local_setup.sh
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/./env.sh
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/naman/Documents/ROSProjects/shepherd_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc

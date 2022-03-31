@@ -1,0 +1,8 @@
+prefix=/home/naman/Documents/ROSProjects/shepherd_ws/install
+
+Name: panther_gazebo
+Description: Description of panther_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

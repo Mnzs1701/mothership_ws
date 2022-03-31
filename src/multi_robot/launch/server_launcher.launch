@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+<node name="r1_server" pkg="multi_robot" type="r1_server.py"/>
+<node name="r2_server" pkg="multi_robot" type="r2_server.py"/>
+<node name="r3_server" pkg="multi_robot" type="r3_server.py"/>
+<node name="r4_server" pkg="multi_robot" type="r4_server.py"/>
+
+</launch>

@@ -1,0 +1,2 @@
+multi_robot:rosbot_description/src/rosbot_description:rosbot_description/src/rosbot_gazebo:rosbot_description/src/rosbot_navigation
+-DCATKIN_DEVEL_PREFIX=/home/naman/Documents/ROSProjects/shepherd_ws/devel -DCMAKE_INSTALL_PREFIX=/home/naman/Documents/ROSProjects/shepherd_ws/install -G Unix Makefiles
